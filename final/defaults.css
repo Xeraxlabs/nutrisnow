@@ -1,0 +1,17 @@
+:root {
+    --main-color: ;
+    --white-color: #fff;
+    --black-color: #000;
+    --box-shadow: rgb(0 0 0 / 16%) 0px 2px 8px;
+    --mina-border: 1px solid #E8E9EB;
+}
+
+@keyframes down {
+    0% {
+        transform: translateY(0px)
+    }
+
+    100% {
+        transform: translateY(20px)
+    }
+}
