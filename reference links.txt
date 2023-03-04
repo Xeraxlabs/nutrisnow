@@ -1,0 +1,66 @@
+==== UNIT REFERENCES ====
+
+Pixel to REM 
+https://pixelsconverter.com/px-to-rem
+
+Base Font size: 16px
+1px - 0.0625rem
+2px - 0.125rem
+3px - 0.1875rem
+4px - 0.25rem
+5px - 0.3125rem
+8px - 0.5rem
+9px - 0.5625rem
+10px - 0.625rem
+12px - 0.75rem
+13px - 0.8125rem
+14px - 0.875rem
+15px - 0.93rem
+18px - 1.125rem
+20px - 1.25rem
+22px - 1.375rem
+25px - 1.5625rem
+30px - 1.875rem
+35px - 2.1875rem
+40px - 2.5rem
+45px - 2.8125rem
+50px - 3.125rem
+60PX - 3.75rem
+55px - 3.4375rem
+100px - 6.25rem
+136px - 8.5rem
+150px - 9.375rem
+180px - 11.25rem
+200px - 12.5rem
+350px - 21.875rem
+460px - 28.75rem
+465px - 29.0625rem
+
+==== UNIT REFERENCES ====
+
+==== BOOSTRAP GRID AND SPACINGS ====
+
+container
+row
+col
+col-md
+col-lg
+py-
+gy
+gx
+px
+p-4
+
+Youtube Guide:
+
+
+Bootsrap grid default breakpoints
+https://getbootstrap.com/docs/5.0/layout/breakpoints/
+
+Grid documentation
+https://getbootstrap.com/docs/5.0/layout/grid/
+
+Bootstrap Spacing decumentation
+https://getbootstrap.com/docs/5.0/utilities/spacing/
+
+==== BOOSTRAP GRID AND SPACINGS ====

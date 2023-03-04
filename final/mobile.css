@@ -1,0 +1,47 @@
+@media screen and (max-width:575px) {
+    .header-nav {
+        padding: 0.62rem 0.18rem;
+    }
+
+    .promocards-main {
+        min-height: 9.375rem;
+    }
+
+    .section-tittles::after {
+        display: none;
+    }
+}
+
+@media screen and (max-width:820px) {
+    .hamburger {
+        display: flex;
+    }
+
+    .header-nav {
+        padding: 0.62rem 0;
+
+    }
+
+    .copyright {
+        padding: 0.62rem;
+    }
+
+    .desktop-nav-container {
+        display: none;
+    }
+
+
+
+    .header-info p {
+        min-width: 100%;
+    }
+
+    .header-cards {
+        flex-direction: column;
+    }
+
+    .cards-brand {
+        margin: 0.62rem 0;
+    }
+
+}

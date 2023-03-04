@@ -1,0 +1,159 @@
+Nutrisnow
+
+Healthy Foods Healthy Nutrition For Everyone 
+
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Rem, ipsam qui doloribus sunt accusantium placeat hic, blanditiis explicabo laboriosam nihil nobis natus nam pariatur omnis incidunt autem aspernatur sapiente minus?
+
+Healthy Meals
+Organic Fresh Special 
+
+Vegetables
+Sweet Fresh Special 
+
+Livestock
+Fat Fresh Special 
+
+
+
+Healthy Meals for less
+
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Inventore corrupti voluptates amet nisi
+voluptas illum animi dolorem deleniti. Nihil quam ut unde beatae alias, ducimus cupiditate omnis
+laudantium sint dolore! Lorem ipsum dolor sit amet consectetur adipisicing elit. Inventore corrupti
+voluptates amet nisi voluptas illum animi dolorem deleniti. Nihil quam ut unde beatae alias, ducimus
+cupiditate omnis laudantium sint dolore!
+
+Why Us
+
+Fast Delivery
+
+cheaper price – often times we compare prices online only to find them slightly cheaper or higher than the same item in store
+
+
+Fresh
+
+Fresh foods that need to be cooked or have been in the fridge for more than 2 hours can be refrigerated for up to 4 hours. Bagged fresh
+
+
+Nature Friendly
+
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis saepe ut quasi suscipit ullam veniam quisquam deserunt! Magni quo ad.
+
+Trusted
+
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis saepe ut quasi suscipit ullam veniam quisquam deserunt! Magni quo ad.
+
+
+
+Mouth Watering Deals
+
+1 Donwload our mobile app and Choose a subscription plan that suits your needs. 
+2 Signup and Order your fresh from farm vegetables using our mobile app or website. 
+3 Enjoy a seemlessly fast delivery less than 20 minutes after ordering. See you the next time!
+4 Tweet about the quality of services you enjoyed and tag us in your post. #nutrisnow 
+
+ 70% OFF on your next purchase its not like the products are real anyway!!
+
+Happy clients
+
+ Lorem ipsum dolor, sit amet consectetur adipisicing elit. Illo sequi consequatur, voluptatem fuga ducimus velit assumenda. Quos quibusdam
+
+Johnes Miguel
+
+
+who we are
+Our history
+Our brand
+Sponsors
+what we do
+Policies
+Financies
+Services
+Delivery
+Events
+Newsroom
+Employment
+Contact Developer
+
+COMPANY
+CARRERS
+PRIVACY
+TERMS
+
+Html comments
+<!-- ============================ Header section starts here ============================-->
+
+<!-- ------------------- Header nav section starts here ------------------------- -->
+<!-- ------------------- Header nav section starts here ------------------------- -->
+
+<!-- ------------------- Header Banner section starts here------------------------------- -->
+<!-- ------------------- Header Banner section ends here------------------------------ -->
+
+<!-- ============================ Header section ends here ============================ -->
+
+<!-- ============================ Main section starts here ============================ -->
+
+<!-- ------------------- Header showcase section starts here -------------------------------- -->
+<!-- ------------------- Header showcase section ends here -------------------------------- -->
+
+<!-- ------------------- About us section starts here------------------------------------- -->
+<!-- ------------------- About us section ends here------------------------------------- -->
+
+<!-- ------------------- Product cards section starts here--------------------------- -->
+<!-- ------------------- Product cards section ends here--------------------------- -->
+
+<!-- ------------------- Promo cards section starts here------------------------ -->
+<!-- ------------------- Promo cards section ends here------------------------ -->
+
+<!-- ------------------- Testimonial section starts here ------------------------ -->
+<!-- ------------------- Testimonial section ends here ------------------------ -->
+
+<!-- ------------------- Brands section starts here----------------------- -->
+<!-- ------------------- Brands section ends here----------------------- -->
+
+<!-- ============================ Main section ends here ============================ -->
+
+<!-- ============================ Footer section starts here ============================ -->
+<!-- ============================ Footer section ends here ============================ -->
+
+
+
+Main.css Comments
+
+/*  ====== Page resets starts here ====== */
+/*  ====== Page resets ends here ====== */
+
+/* ====== Utility classes section starts here ======*/
+/* ====== Utility classes section ends here ======*/
+
+/* ====== Header section starts here ====== */
+/* ====== Header section ends here ====== */
+
+
+/* -----------------------Main Section--------------------------- */
+
+/* ====== Header showcase section starts here ====== */
+/* ====== Header showcase section ends here ====== */
+
+/* ====== About us section starts here ====== */
+/* ====== About us section ends here ====== */
+
+/* ====== Product cards section starts here ====== */
+/* ====== Product cards section ends here ====== */
+
+/* ====== Promo cards section starts here ====== */
+/* ====== Promo cards section ends here ====== */
+
+/* ====== Testimonial section starts here ====== */
+/* ====== Testimonial section ends here ====== */
+
+/* ====== Brands section starts here ====== */
+/* ====== Brands section ends here ====== */
+
+/* -----------------------Main Section--------------------------- */
+
+
+/* ====== Footer section starts here ====== */
+/* ====== Footer section ends here ====== */
+
+
