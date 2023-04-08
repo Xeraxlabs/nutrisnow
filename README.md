@@ -2,7 +2,10 @@
 
 # Nutrisnow
 
-A simple restuarant landing page built with Bootstrap 5 grid system,swiper and core html,css and js technologies. A complete guide about how to build this project from scratch is covered in this [Youtube video](https://www.youtube.com/)
+NutriNow is a simple grocery store landing page. Built with Bootstrap 5 grid system,swiper and core html, css and js technologies. A complete guide about how to build this project from scratch is covered in this [Youtube video](https://www.youtube.com/)<br>
+  <br>
+ The website provides users with a simple and intuitive interface, NutriNow's user interface is simple and easy to navigate, with a clean and modern design and subtle animations that prioritizes usability and accessibility. The website is fully responsive and optimized for use on desktop and mobile devices.
+
 
 ## Preview Application
 
